@@ -1,0 +1,49 @@
+{
+	"name": "RobloxSimulator",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"$ignoreUnknownInstances": true,
+			"$path": "/src/shared"
+		},
+		"ReplicatedFirst": {
+			"$ignoreUnknownInstances": false
+		  },
+		"ServerScriptService": {
+			"$ignoreUnknownInstances": true,
+			"$path": "src/server"
+		},
+		"StarterPlayer": {
+			"$ignoreUnknownInstances": true,
+			"StarterPlayerScripts": {
+				"$path": "src/client/StarterPlayerScripts"
+			},
+			"StarterCharacterScripts": {
+				"$path": "src/client/StarterCharacterScripts"
+			}
+		},
+		"StarterGui": {
+			"$className": "StarterGui",
+			"$path": "src/client/StarterGui",
+			"$ignoreUnknownInstances": true
+		},
+		"Workspace": {
+			"$ignoreUnknownInstances": true,
+			"$properties": {
+				"FilteringEnabled": true
+			}
+		},
+		"Lighting": {
+			"$ignoreUnknownInstances": true
+		},
+		"SoundService": {
+			"$ignoreUnknownInstances": true,
+			"$properties": {
+				"RespectFilteringEnabled": true
+			}
+		},
+		"Teams": {
+			"$ignoreUnknownInstances": true
+		}
+	}
+}
