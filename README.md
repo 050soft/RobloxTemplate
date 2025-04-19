@@ -13,6 +13,6 @@ Note: to sync with roblox you also need to install the plugin in studio, the men
 Please follow the instructions on this page: https://rojo.space/docs/v7/getting-started/installation/
 
 # Files
-`filename.server.luau` Replace filename with anything you'd like to create a server script
-`filename.luau` Replace filename with anything you'd like to create a module script
-`filename.client.luau` Replace filename with anything you'd like to create a local script
+`filename.server.luau` Replace filename with anything you'd like to create a server script  
+`filename.luau` Replace filename with anything you'd like to create a module script  
+`filename.client.luau` Replace filename with anything you'd like to create a local script  
